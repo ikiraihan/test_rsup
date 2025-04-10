@@ -19,5 +19,5 @@ Muhammad Raihan Pradana
 2. Unzip Project
 3. Import Database import.sql yang ada di Root File Backend 
 4. jalankan projek
-5. jalankan user seeder menggunakan http://{url_backend}/User_seeder/insert_users
+5. jalankan user seeder menggunakan http://(url backend anda)/User_seeder/insert_users
 6. setting js/config.js yang ada di file frontend dan sesuaikan dengan url backend anda
